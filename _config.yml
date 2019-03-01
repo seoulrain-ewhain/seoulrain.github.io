@@ -108,9 +108,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "서울비"
+  name             : "서울비@Github"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "깃헙 분점"
+  bio              : ""
   location         : "Seoul"
   email            :
   links:
